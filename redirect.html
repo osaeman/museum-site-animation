@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      .container {
+        position: absolute;
+        width: 100px;
+        height: 100px;
+      }
+      .drawing {
+        width: 100%;
+        height: 100%;
+      }
+
+      .path {
+        animation: draw 5s linear forwards;
+      }
+      @keyframes draw {
+        to {
+          stroke-dashoffset: 0;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <!-- <svg
+      class="drawing"
+      width="200"
+      height="200"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        class="path"
+        d="M 200 450 L 300 450 L 300 450 A 50 50 0 1 1 300 450 A 50 50 0 1 1 400 450 L 500 450 L 500 100 L 400 100 A 50 50 0 1 1 300 100 L 200 100 L 200 450 "
+        fill="transparent"
+        stroke="black"
+        stroke-width="2"
+      />
+    </svg> -->
+    <div class="container">
+      <svg
+        version="1.1"
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        x="0px"
+        y="0px"
+        width="50"
+        height="50"
+        viewBox="0 0 44.9 44.9"
+        class="drawing"
+      >
+        <path
+          class="path"
+          d="M7.4,31.7c1.6-1.6,4.2-1.6,5.9,0c1.6,1.6,1.6,4.2,0,5.9l0,0l4.9,4.9l24.4-24.4l-4.9-4.9l0,0
+    c-1.6,1.6-4.2,1.6-5.9,0c-1.6-1.6-1.6-4.2,0-5.9l-4.9-4.9L2.5,26.9L7.4,31.7L7.4,31.7z"
+          fill="transparent"
+          stroke="black"
+          stroke-width="1"
+          style="stroke-dashoffset: 122.856; stroke-dasharray: 122.856, 122.856"
+        ></path>
+        <path
+          class="path"
+          d="M19,11.3l14.1,14.1"
+          fill="transparent"
+          stroke="black"
+          stroke-width="1"
+          style="stroke-dashoffset: 19.9404; stroke-dasharray: 19.9404, 19.9404"
+        ></path>
+      </svg>
+    </div>
+  </body>
+</html>

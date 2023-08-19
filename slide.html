@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <style>
+    .flex-container {
+      display: flex;
+    }
+
+    .flex-item {
+      flex-grow: 1;
+      background-color: lightblue;
+      transition: flex-grow 0.3s ease;
+      min-height: 100px;
+      width: 100px;
+    }
+
+    .flex-item.expanded {
+      flex-grow: 2; /* Change flex-grow value for expansion */
+    }
+
+    .flex-item_2 {
+      flex-grow: 1;
+      background-color: red;
+    }
+  </style>
+  <body>
+    <div class="flex-container">
+      <div class="flex-item"></div>
+      <div class="flex-item_2"></div>
+    </div>
+    <button id="toggleButton">Toggle Flex-Grow</button>
+    <script>
+      const flexItem = document.querySelector(".flex-item");
+      const toggleButton = document.getElementById("toggleButton");
+
+      toggleButton.addEventListener("click", () => {
+        flexItem.classList.toggle("expanded");
+      });
+    </script>
+  </body>
+</html>

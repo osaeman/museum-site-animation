@@ -1,0 +1,85 @@
+    <div class="main-container">
+ 
+
+      <div class="main-container">
+      
+
+        <div class="scrolling-section">
+          <div class="scrolling-section-2">
+            <h2>Scrolling Section</h2>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+              euismod lectus et dolor laoreet, id iaculis eros feugiat.
+            </p>
+            <p>
+              Curabitur eget bibendum nisi. Nullam id risus et metus facilisis
+              tristique. Duis auctor bibendum ipsum, at interdum nisl dapibus
+              vel.
+            </p>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+              euismod lectus et dolor laoreet, id iaculis eros feugiat.
+            </p>
+            <p>
+              Curabitur eget bibendum nisi. Nullam id risus et metus facilisis
+              tristique. Duis auctor bibendum ipsum, at interdum nisl dapibus
+              vel.
+            </p>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+              euismod lectus et dolor laoreet, id iaculis eros feugiat.
+            </p>
+            <p>
+              Curabitur eget bibendum nisi. Nullam id risus et metus facilisis
+              tristique. Duis auctor bibendum ipsum, at interdum nisl dapibus
+              vel.
+            </p>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+              euismod lectus et dolor laoreet, id iaculis eros feugiat.
+            </p>
+            <p>
+              Curabitur eget bibendum nisi. Nullam id risus et metus facilisis
+              tristique. Duis auctor bibendum ipsum, at interdum nisl dapibus
+              vel.
+            </p>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+              euismod lectus et dolor laoreet, id iaculis eros feugiat.
+            </p>
+            <p>
+              Curabitur eget bibendum nisi. Nullam id risus et metus facilisis
+              tristique. Duis auctor bibendum ipsum, at interdum nisl dapibus
+              vel.
+            </p>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+              euismod lectus et dolor laoreet, id iaculis eros feugiat.
+            </p>
+            <p>
+              Curabitur eget bibendum nisi. Nullam id risus et metus facilisis
+              tristique. Duis auctor bibendum ipsum, at interdum nisl dapibus
+              vel.
+            </p>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+              euismod lectus et dolor laoreet, id iaculis eros feugiat.
+            </p>
+            <p>
+              Curabitur eget bibendum nisi. Nullam id risus et metus facilisis
+              tristique. Duis auctor bibendum ipsum, at interdum nisl dapibus
+              vel.
+            </p>
+            <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+              euismod lectus et dolor laoreet, id iaculis eros feugiat.
+            </p>
+            <p>
+              Curabitur eget bibendum nisi. Nullam id risus et metus facilisis
+              tristique. Duis auctor bibendum ipsum, at interdum nisl dapibus
+              vel.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
